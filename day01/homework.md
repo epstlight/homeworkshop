@@ -16,7 +16,7 @@ print(keyword.kwlist)
 ## 2번문제
 
 ```python
-a = round(0.1 * 3, 2)
+a = round(0.1 * 3, 1)
 b = 0.3 
 print(a == b)
 ```
