@@ -26,19 +26,18 @@
 </head>
 
 <body>
-  <!-- 1.grid 기본골격 -->
   <div class="container">
     <div class="row">
-      <div class="square col-sm-12 col-md-6 col-xl-3">
+      <div class="col-12 col-md-6 col-xl-3">
         1
       </div>
-      <div class="square col-sm-12 col-md-6 col-xl-3">
+      <div class="col-12 col-md-6 col-xl-3">
         2
       </div>
-      <div class="square col-sm-12 col-md-6 col-xl-3">
+      <div class="col-12 col-md-6 col-xl-3">
         3
       </div>
-      <div class="square col-sm-12 col-md-6 col-xl-3">
+      <div class="col-12 col-md-6 col-xl-3">
         4
       </div>
     </div>
